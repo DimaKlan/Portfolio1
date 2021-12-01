@@ -98,7 +98,7 @@ p {
     justify-content: center;
     padding-top: 100px;
     height: 750px;
-    background: #4c9cf7 url(./img/head.jpg) center no-repeat;
+    background: #4c9cf7 url(../img/head.jpg) center no-repeat;
     background-size: cover;
 }
 
